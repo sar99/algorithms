@@ -34,10 +34,4 @@ in particular language section.
 * Go
 * Swift
 * C
-* C#
-* Typescript
-* Ruby
-* PHP
-* Kotlin
-* Rust
-* Scala
+
