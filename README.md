@@ -36,7 +36,6 @@ in particular language section.
 * C
 * C#
 * Typescript
-* C#
 * Ruby
 * PHP
 * Kotlin
