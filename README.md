@@ -26,7 +26,7 @@ in particular language section.
 
 ## Contribution
 * C++
-    * [BinarySort](https://github.com/manishdangi98/algorithms)
+    * [BinarySort](https://github.com/manishdangi98/algorithms/blob/master/C%2B%2B/BinarySearch.cpp)
 * Java
 * Python
 * Python3
