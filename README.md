@@ -1,6 +1,6 @@
 # Algorithms
 
-We love pull requests from everyone.This repo is created to contribute the different algorithms in all possible language.There are different folder for different language contribute your code in that particular language folder.
+We love pull requests from everyone. This repository is created for you to contribute different algorithms in different languages. There are separate folders for different languages.
 
 ## Contributor Guide
 
@@ -10,17 +10,16 @@ First fork the repository and then clone it using:
 ```bash
 git clone git@github.com:your-username/algorithms.git
 ```
-Implementing new algorithms in the repo.Be sure to keep it under right section. Make sure that your implementation works.
-* optimizing or improving the existing algorithms.
-* adding a different solution for the problem.
-* finding and fixing bugs.
+You may contribute with any of the following:-
+* Implement an algorithm which is not present in a particular language's folder.
+* Optimizing or improving an existing algorithm.
+* Adding a different approach for an existing algorithm.
+* Finding and fixing bugs.
 
 
-
-Pull Requests
-- Update [README.md](https://github.com/manishdangi98/algorithms/blob/master/README.md)
-- Add algorithm name in contribution section of [README.md](https://github.com/manishdangi98/algorithms/blob/master/README.md)
-in particular language section.
+### Pull Requests
+- Add your file in the particular language's folder and make sure you name it properly. The name of the Algorithm has to be in PascalCase(First letter of every word has to be capital, without any spaces).
+- Update [README.md](https://github.com/manishdangi98/algorithms/blob/master/README.md) with the name of the algorithm in the particular language's section.
 
 
 
