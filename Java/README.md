@@ -1,1 +1,1 @@
-#implement algoritms in Java
+#implement algorithms in Java

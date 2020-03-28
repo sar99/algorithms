@@ -1,1 +1,1 @@
-#implement algoritms in Typescript
+#implement algorithms in Typescript

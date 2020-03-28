@@ -1,1 +1,1 @@
-#implement algoritms in Swift
+#implement algorithms in Swift

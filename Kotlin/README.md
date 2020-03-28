@@ -1,1 +1,1 @@
-#implement algoritms in Kotlin
+#implement algorithms in Kotlin

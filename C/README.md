@@ -1,1 +1,1 @@
-#implement algoritms in C
+#implement algorithms in C

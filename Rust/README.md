@@ -1,1 +1,1 @@
-#implement algoritms in Rust
+#implement algorithms in Rust

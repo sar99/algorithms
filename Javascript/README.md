@@ -1,1 +1,1 @@
-#implement algoritms in Javascript
+#implement algorithms in Javascript

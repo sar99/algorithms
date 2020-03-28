@@ -1,1 +1,1 @@
-#implement algoritms in Ruby
+#implement algorithms in Ruby

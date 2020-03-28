@@ -1,1 +1,1 @@
-#implement algoritms in PHP
+#implement algorithms in PHP

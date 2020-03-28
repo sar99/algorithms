@@ -1,1 +1,1 @@
-#implement algoritms in Go Lang
+#implement algorithms in Go Lang

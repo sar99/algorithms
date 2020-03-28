@@ -1,1 +1,1 @@
-#implement algoritms in Python
+#implement algorithms in Python

@@ -1,1 +1,1 @@
-#implement algoritms in Scala
+#implement algorithms in Scala
